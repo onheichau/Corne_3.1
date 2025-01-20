@@ -11,5 +11,5 @@
 | MCU                      | ProMicro NRF52840 (Supporting ZMK & Bluetooth)                 | 2 pcs (L & R) |
 | Lithium Polymer Battery  | 200mAh, 3.7V                                                   | 2 pcs (L & R) |
 | Corne 3.1 PCB            | Pre-soldered all components, Diodes, TTRS Jacks, Tact Switch   | 2 pcs (L & R) |
-| Switch Socket            | Pre-soldered on PCB, Howswappable                              | 58 pcs        |
+| Switch Socket            | Pre-soldered on PCB, Howswappable                              | 42 pcs        |
 | TRRS cable               | Connecting Left and Right half for wire connection             | 1 cable       |
