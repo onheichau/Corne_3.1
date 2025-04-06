@@ -36,7 +36,7 @@
             bindings = <
 &kp GRAVE     &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp KP_NUMBER_4  &kp KP_NUMBER_5    &kp KP_NUMBER_6  &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp KP_NUMBER_0  &kp BACKSLASH
 &trans        &trans           &trans           &trans           &trans           &trans             &kp LEFT         &kp DOWN         &kp UP           &kp RIGHT        &kp ENTER        &trans
-&kp LEFT_ALT  &trans           &trans           &kp LG(DLLR)     &kp LG(PRCNT)    &trans             &kp KP_DOT       &kp LC(LA(A))    &kp LG(LEFT)     &kp LG(RIGHT)    &kp LC(KP_PLUS)  &kp LC(KP_MINUS)
+&kp LEFT_ALT  &trans           &trans           &kp LG(DLLR)     &kp LG(PRCNT)    &trans             &kp KP_DOT       &kp LC(LA(A))    &kp LG(LEFT)     &kp LG(RIGHT)    &kp LG(KP_PLUS)  &kp LG(KP_MINUS)
                                                 &trans           &trans           &trans             &trans           &kp RIGHT_SHIFT  &kp RALT
             >;
         };
