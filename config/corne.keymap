@@ -51,7 +51,7 @@
             bindings = <
 &kp GRAVE                             &kp EXCL  &kp AT  &kp HASH              &kp DLLR               &kp PRCNT        &kp CARET    &kp AMPS          &kp KP_ASTERISK    &kp KP_MINUS  &kp UNDER  &kp BACKSLASH
 &kp TAB                               &trans    &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LG(SPACE)    &kp KP_PLUS  &kp LBRC          &kp RIGHT_BRACE    &kp KP_EQUAL  &kp ENTER  &trans
-&kp C_AC_NEXT_KEYBOARD_LAYOUT_SELECT  &trans    &trans  &trans                &trans                 &trans           &trans       &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans        &trans     &trans
+&kp GLOBE  &trans    &trans  &trans                &trans                 &trans           &trans       &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &trans        &trans     &trans
                                                         &kp LGUI              &kp LEFT_SHIFT         &kp SPACE        &kp RET      &trans            &trans
             >;
         };
